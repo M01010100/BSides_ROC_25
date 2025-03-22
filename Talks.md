@@ -80,3 +80,53 @@
 - control of south china sea
 - no local vectors for expansion
 - large navy but unable to defend themselves
+- Geopolitical imparitive 
+    - Han-core of chinese population, 
+    - uigher population in tibet, coastal regions
+    - large naval bases across southern hemisphere
+    - check book diplomacy
+    - belt and road, building infrastructure in Africa/ southeast asia
+    - straign of malca, panama canal are preasure points china is assessing 
+- wants to expand to full control of south china sea by 2030, 10th dash
+- China prefers buffers, Mountain ranges, independant nations
+#### BRICS 
+- Brazil, Russia, indonisiea, China, etc
+- Problems
+    - Russia and China wanting dominate control
+    - heavy handed "War" approach and soft "money" approach
+    - Indonisia and India are rapidly expanding Naval power
+- Stregnths
+    - Rare earth metals, neodim, etc
+    - large agriculture
+    - Control of 40% of oil supply
+#### ASEAN
+- Tension in south china sea, non intervention state
+- attempt to use economic preasure but is limited
+#### competition
+- Silicon & microprocessor development
+#### Refs
+- {REF12345}
+- REF2924
+    - used outlook to send c2 commands
+    - dropping foreign intel officers 
+    - Siestagraph, full backdoor, deployed on prem exchange, comms over Graph API using github
+    - Somnirecord - Full Baskdoor, masquerades as DNS, C2 inplemented to resemble DNS  name resolution
+    - Naplistner- Full Backdoor, Masquerades as IIS module, HTTP/S, C#
+#### IIS Modules
+- DLLS a server loads
+- ISAPI filter
+- loaded by webserver
+- unvarified
+- Often overlooked
+- Doorme
+
+## Open Source 5G Deployment
+- Open AI Cellular
+#### Installation
+- Containarized Docker, Kubernet, HELM, SRSRAN project(Simulation)
+- OAIC
+- epc - logs, 
+#### DOS Attack
+- 5G handles attack in simulation
+####
+####
