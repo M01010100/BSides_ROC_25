@@ -120,13 +120,58 @@
 - Often overlooked
 - Doorme
 
-## Open Source 5G Deployment
+## Open Source 5G Deployment 
+- Andrew Fox
 - Open AI Cellular
+- ham radio, unencrypted overlaps with 5G band in certain channels
 #### Installation
 - Containarized Docker, Kubernet, HELM, SRSRAN project(Simulation)
 - OAIC
-- epc - logs, 
+- EPC - logs, on different terminals 
+- gnMB
+- umbd
 #### DOS Attack
 - 5G handles attack in simulation
-####
-####
+
+## OT Security 
+- Micheal Nee
+- ICS = IACS = SCADA
+- Real World Interactions
+- CISA Defines 16 Crit Infra sectors
+- Ancient
+- low compute and designed for longevity
+- Purude model is outdated
+#### History
+- Before, they were not connected to netowrks, etc True Airgap
+- Incidents
+    - 2010 Stuxnet Iranian nuclear program
+    - 2016 Industroyer
+    - 2017 NotPetya TRITON
+    - 2021 Colonial Pipeline & Oldsmar water
+    - 2024 CrowdStrike
+- IT/OT Convergence occured which lead to recent uptik in incidents
+#### Now
+- signigicantly behind - 5 to 30 years behind IT sec
+- SRP
+    - Safety
+    - Reliability
+    - Performance
+- Tools: 
+    - Network Segmentation
+    - Network Detection Tools; spam port/ mirrored traffic
+#### What can be done
+- implement improvements carefully
+- problem is lack of knowledge on systems, can not scan/ vendor doesnot share
+- Need asset inventory
+- Start with segmentation
+#### Asset Inventory
+- what
+    - systems
+    - access
+    - is the risks
+- who owns the solution
+- How will it be updated, verify access
+
+## Bug Hunting Web Applications
+- Saurabh Signh
+#### 
